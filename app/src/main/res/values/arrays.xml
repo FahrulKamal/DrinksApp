@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="list_meja">
+        <item>Meja A001</item>
+        <item>Meja A002</item>
+        <item>Meja A003</item>
+        <item>Meja A004</item>
+        <item>Meja A005</item>
+        <item>Meja A006</item>
+        <item>Meja A007</item>
+        <item>Meja A008</item>
+        <item>Meja A009</item>
+        <item>Meja A010</item>
+    </string-array>
+</resources>

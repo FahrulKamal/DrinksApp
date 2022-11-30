@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "439595759307",
+    "firebase_url": "https://drink-apps-d48fa-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "drink-apps-d48fa",
+    "storage_bucket": "drink-apps-d48fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439595759307:android:b7490bcacf5e84fcb5cd4e",
+        "android_client_info": {
+          "package_name": "com.rannstudio.drinksapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "439595759307-kigqva48mn23i62kpujapg5vll2fd7sf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDquLP3JKTchBayHug33WiUjQyGPgYm_5c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "439595759307-kigqva48mn23i62kpujapg5vll2fd7sf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
